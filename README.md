@@ -1,7 +1,10 @@
 # JAVA-14-project
-Student Management System
+
+# Student Management System Application using JAVA and MYSQL.
+
 In this project I have used Java 14 oracle 11g express edition and hibernate.
-i have created modules such as 
+
+I have created modules such as 
 
 1)add student
 
